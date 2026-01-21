@@ -39,3 +39,7 @@ adventure:
 story: Lost in the heart of the Amazon rain forest, Sarah and Jake stumbled upon an ancient temple. They braved deadly traps and encountered strange wildlife, all while deciphering cryptic clues left behind by a mysterious civilization.
 borderColor: #acd157
 
+Create a function called displayStory. Inside the function, log "You clicked the button" to the console.
+
+Add an event listener for the click event to scaryStoryBtn and pass it the displayStory function. Then, click your button and see the output in the console.
+
