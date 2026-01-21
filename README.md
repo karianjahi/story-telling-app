@@ -8,3 +8,5 @@ Create a main element with a class of story-container. Inside the .story-contain
 
 
 Inside the .btn-container, create three buttons for each type of story. Give each button a class of btn and an id of scary-btn, funny-btn, and adventure-btn. The text for each button should be Scary Story, Funny Story, and Adventure Story respectively.
+
+Below the .btn-container element, you should have a p element with the id of result. This is where the story will be displayed.
