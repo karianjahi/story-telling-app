@@ -24,3 +24,9 @@ storyObj.adventure = {}
 storyObj.adventure.story = "Lost in the heart of the Amazon rain forest, Sarah and Jake stumbled upon an ancient temple. They braved deadly traps and encountered strange wildlife, all while deciphering cryptic clues left behind by a mysterious civilization.";
 storyObj.adventure.borderColor = "#acd157";
 console.log(storyObj);
+
+
+const displayStory = () => {
+    console.log("You clicked the button");
+}
+

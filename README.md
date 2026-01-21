@@ -36,4 +36,6 @@ story: During a camping trip, Mark decided to show off his culinary skills by co
 borderColor: #f1be32
 adventure:
 
-story: Lost in the heart of the Amazon rain forest, Sarah and Jake stumbled upon an ancient temple. They braved deadly traps and encountered strange wildlife, all while deciphering cryptic clues left behind by 
+story: Lost in the heart of the Amazon rain forest, Sarah and Jake stumbled upon an ancient temple. They braved deadly traps and encountered strange wildlife, all while deciphering cryptic clues left behind by a mysterious civilization.
+borderColor: #acd157
+
