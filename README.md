@@ -43,3 +43,7 @@ Create a function called displayStory. Inside the function, log "You clicked the
 
 Add an event listener for the click event to scaryStoryBtn and pass it the displayStory function. Then, click your button and see the output in the console.
 
+To differentiate between the different types of stories, you will need to pass the genre of the selected story to the displayStory function.
+
+Add a parameter called genre to the displayStory function.
+

@@ -26,7 +26,7 @@ storyObj.adventure.borderColor = "#acd157";
 
 
 
-const displayStory = () => {
+const displayStory = (genre) => {
     
 }
 
