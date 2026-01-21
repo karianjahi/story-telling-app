@@ -47,3 +47,9 @@ To differentiate between the different types of stories, you will need to pass t
 
 Add a parameter called genre to the displayStory function.
 
+Inside the displayStory function, check if the storyObj object has a property that matches the genre parameter and set the #result paragraph's text content to the story of the selected genre.
+
+Also, set the storyContainer's border color to the borderColor property of the selected genre.
+
+Test this by calling the displayStory function with the scary genre. The border color should be #ee4b2b and the story should be "In the dark woods, a group of friends stumbled upon an old, abandoned cabin. They enter the cabin and awaken something malevolent that had been dormant for centuries.".
+

@@ -1,4 +1,3 @@
-const runFromWebsiteConsole = true
 
 const storyContainer = document.querySelector(".story-container");
 
@@ -7,6 +6,7 @@ const funnyStoryBtn = document.getElementById("funny-btn");
 const adventureStoryBtn = document.getElementById("adventure-btn");
 
 const resultParagraph = document.getElementById("result");
+
 
 
 
@@ -27,8 +27,16 @@ storyObj.adventure.borderColor = "#acd157";
 
 
 const displayStory = (genre) => {
-    
+    if(storyObj.hasOwnProperty(genre)){
+        resultParagraph.textContent = storyObj[genre]["story"];
+        storyContainer.style.borderColor = storyObj[genre]["borderColor"];
+        storyContainer.style.borderStyle = "solid";
+        storyContainer.style.borderWidth = "5px"
+   
+    } 
 }
+
+displayStory("adventure");
 
 
 scaryStoryBtn.addEventListener("click", () => displayStory());
