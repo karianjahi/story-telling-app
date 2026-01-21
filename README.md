@@ -20,3 +20,4 @@ select the story container element and store in a variable called storyContainer
 
 Select the #scary-btn, #funny-btn, and #adventure-btn buttons and store them in variables called scaryStoryBtn, funnyStoryBtn, and adventureStoryBtn.
 
+Select the #result paragraph and store it in a variable called resultParagraph. You will use this variable to display the selected story.
