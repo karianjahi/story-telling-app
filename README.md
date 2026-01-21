@@ -53,3 +53,8 @@ Also, set the storyContainer's border color to the borderColor property of the s
 
 Test this by calling the displayStory function with the scary genre. The border color should be #ee4b2b and the story should be "In the dark woods, a group of friends stumbled upon an old, abandoned cabin. They enter the cabin and awaken something malevolent that had been dormant for centuries.".
 
+
+Now that the displayStory function is working correctly, it is time to add the functionality to the buttons.
+
+Before that, remove the displayStory("scary") function call.
+

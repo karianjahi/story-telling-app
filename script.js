@@ -36,7 +36,5 @@ const displayStory = (genre) => {
     } 
 }
 
-displayStory("adventure");
-
 
 scaryStoryBtn.addEventListener("click", () => displayStory());
