@@ -58,3 +58,7 @@ Now that the displayStory function is working correctly, it is time to add the f
 
 Before that, remove the displayStory("scary") function call.
 
+
+Modify the scaryStoryBtn event listener to call the displayStory function with the argument "scary". Also, add a click event listener to the funnyStoryBtn, and adventureStoryBtn buttons that call the displayStory function with the arguments "funny" and "adventure" respectively.
+
+With this, you have successfully completed the workshop.
