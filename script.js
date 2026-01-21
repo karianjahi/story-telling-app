@@ -1,5 +1,5 @@
 const storyContainer = document.querySelector(".story-container");
 
-const scaryBtn = document.getElementById("scary-btn");
-const funnyBtn = document.getElementById("funny-btn");
-const adventureBtn = document.getElementById("adventure-btn");
+const scaryStoryBtn = document.getElementById("scary-btn");
+const funnyStoryBtn = document.getElementById("funny-btn");
+const adventureStoryBtn = document.getElementById("adventure-btn");

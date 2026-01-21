@@ -14,4 +14,9 @@ Below the .btn-container element, you should have a p element with the id of res
 
 Next, you will start working on the JavaScript. For that, begin by linking the script.js file to your HTML.
 
-Create a script element with its src attribute pointing to the script.js file. For example:
+Create a script element with its src attribute pointing to the script.js file. 
+
+select the story container element and store in a variable called storyContainer
+
+Select the #scary-btn, #funny-btn, and #adventure-btn buttons and store them in variables called scaryStoryBtn, funnyStoryBtn, and adventureStoryBtn.
+
