@@ -1,3 +1,4 @@
+🔗 **Live Demo:** [Story Telling App](https://karianjahi.github.io/story-telling-app/)
 # Story Telling App (Workshop)
 
 Build a small storytelling app where users click a **genre button** (Scary, Funny, Adventure) to display a short story and change the **border color** of the story container.
